@@ -1,5 +1,8 @@
+body{ 
+    font-family: 'Lato', sans-serif;
+}
 .testimonial-area {
-    background: #09052f;
+    background: #000000;
   }
   .testimonial-list p {
       font-size: 16px;
