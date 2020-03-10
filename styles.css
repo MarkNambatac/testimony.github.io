@@ -2,21 +2,21 @@ body{
     font-family: 'Lato', sans-serif;
 }
 .testimonial-area {
-    background: #000000;
+    background: #fff;
   }
   .testimonial-list p {
-      font-size: 16px;
+      font-size: 18px;
       line-height: 26px;
       margin-bottom: 55px;
   }
-  .testimonial-list { color: #fff }
+  .testimonial-list { color: black }
   .testimonial-list .client-name {
       font-size: 14px;
       margin-bottom: 13px;
   }
   .testimonial-list .client-title { font-size: 13px }
   .testimonial-control {
-      color: #fff;
+      color: black;
       font-size: 35px;
       left: 45%;
       opacity: 0.5;
